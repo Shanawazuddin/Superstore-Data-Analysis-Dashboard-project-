@@ -1,6 +1,6 @@
 # 📈 Time Series Sales Dashboard – Power BI Project
 
-![Dashboard Preview](https://raw.githubusercontent.com/YourUsername/RepoName/main/dashboard-image.png)
+![Dashboard Preview](https://raw.githubusercontent.com/Shanawazuddin/Superstore-Data-Analysis-Dashboard-project-/refs/heads/main/Dashboard%20Screenshot.png)
 
 ## 📌 Overview
 
